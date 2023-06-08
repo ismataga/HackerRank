@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d9343b7-c46f-425c-9f79-f951077730af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eOlymp/Sademesele.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSolution/JavaAbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSolution/JavaCurrencyFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSolution/JavaStaticInitializerBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaSolution/javaDateAndTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCodeSolution/problemsTwoSum.java" afterDir="false" />
+    <list default="true" id="2d9343b7-c46f-425c-9f79-f951077730af" name="Changes" comment="&quot;Add new solution&#10;&quot;">
+      <change afterPath="$PROJECT_DIR$/src/javaSolution/JavaStringsIntroduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCodeSolution/FindIndexoftheFirstOccurrenceinaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCodeSolution/MergeSortedArray88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCodeSolution/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCodeSolution/PowerOfTwo231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCodeSolution/ValidParantheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCodeSolution/removeElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,24 +30,26 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PJoOH4wPQcmj2BJLj9x1qGmTxO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Sademesele">
-    <configuration name="JavaCurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSolution.JavaCurrencyFormatter" />
+}</component>
+  <component name="RunManager" selected="Application.MergeSortedArray88">
+    <configuration name="MergeSortedArray88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCodeSolution.MergeSortedArray88" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSolution.*" />
+          <option name="PATTERN" value="leetCodeSolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaStaticInitializerBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSolution.JavaStaticInitializerBlock" />
+    <configuration name="PowerOfTwo231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCodeSolution.PowerOfTwo231" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSolution.*" />
+          <option name="PATTERN" value="leetCodeSolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sademesele" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eOlymp.Sademesele" />
+    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCodeSolution.RomanToInteger" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="eOlymp.*" />
+          <option name="PATTERN" value="leetCodeSolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaDateAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSolution.javaDateAndTime" />
+    <configuration name="ValidParantheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCodeSolution.ValidParantheses" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSolution.*" />
+          <option name="PATTERN" value="leetCodeSolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problemsTwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCodeSolution.problemsTwoSum" />
+    <configuration name="removeElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCodeSolution.removeElement" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sademesele" />
-        <item itemvalue="Application.problemsTwoSum" />
-        <item itemvalue="Application.JavaCurrencyFormatter" />
-        <item itemvalue="Application.javaDateAndTime" />
-        <item itemvalue="Application.JavaStaticInitializerBlock" />
+        <item itemvalue="Application.MergeSortedArray88" />
+        <item itemvalue="Application.removeElement" />
+        <item itemvalue="Application.PowerOfTwo231" />
+        <item itemvalue="Application.ValidParantheses" />
+        <item itemvalue="Application.RomanToInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -132,5 +129,19 @@
       <updated>1683184518530</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Add new solution&#10;&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add new solution&#10;&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

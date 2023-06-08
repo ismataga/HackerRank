@@ -1,4 +1,4 @@
-package javaSolution;
+package hackerRank;
 
 import java.time.LocalDate;
 import java.util.Scanner;

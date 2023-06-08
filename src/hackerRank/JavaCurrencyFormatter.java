@@ -1,4 +1,4 @@
-package javaSolution;
+package hackerRank;
 
 import java.text.NumberFormat;
 
